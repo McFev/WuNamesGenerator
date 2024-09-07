@@ -1,5 +1,5 @@
 # WuNamesGenerator
-из сайта (http://www.mess.be/inickgenwuname.php / http://bit.ly/wutangnamegenerator) сделан бот
+из сайта (http://www.mess.be/inickgenwuname.php / http://bit.ly/wutangnamegenerator) сделан telegram bot
 
 использовано (примеры):
 > google: `php telegram bot webhook`
